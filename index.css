@@ -1,0 +1,26 @@
+
+/* The first element */
+ .odd1 {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+/* The second element */
+ #even1 {
+    color: blue;
+    font-size: 36px;
+}
+
+/* The third element */
+ .odd2 {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+/* The fourth element */
+ #even2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
